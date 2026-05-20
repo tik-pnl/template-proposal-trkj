@@ -45,18 +45,38 @@ Pada bagian ringkasan proposal skripsi, penulis diharapkan untuk memberikan gamb
 Kata kunci: kata kunci tidak lebih dari 5 kata kunci dan disusun urut abjad.
 
 
-## Daftar Isi
+# DAFTAR ISI
 - [Lembar Pengesahan](#lembar-pengesahan)
 - [Daftar Isi](#daftar-isi)
-- [Tujuan Praktikum](#tujuan-praktikum)
-- [Dasar Teori](#dasar-teori)
-- [Alat dan Bahan](#alat-dan-bahan)
-- [Langkah Kerja](#langkah-kerja)
-- [Hasil dan Pembahasan](#hasil-dan-pembahasan)
-- [Kesimpulan](#kesimpulan)
 - [Referensi](#referensi)
+
 ---
 
-# BAB I PENDAHULUAN
-# BAB II TINJAUAN PUSTAKA
+# DAFTAR TABEL
+
+---
+
+# DAFTAR GAMBAR
+
+---
+
+# BAB I	PENDAHULUAN
+## Latar Belakang Masalah
+## Rumusan Masalah
+## Tujuan Penelitian
+## Batasan Masalah 
+## Manfaat Penelitian
+# BAB II	TINJAUAN PUSTAKA
+## State of the Art
+## Tinjauan Teoritis
+# BAB III METODOLOGI PENELITIAN
+## Metode Penelitian
+## Data dan Pengumpulan Data
+## Rancangan Sistem (software/hardware)
+## Teknik Pengujian
+## Hasil yang diharapkan
+# JADWAL KEGIATAN DAN TEMPAT PENELITIAN
+# RENCANA ANGGARAN PENELITIAN
+# DAFTAR PUSTAKA
+# LAMPIRAN
 
