@@ -50,20 +50,29 @@ Kata kunci: tidak lebih dari 5 kata kunci dan disusun secara urut abjad.
 ---
 
 # BAB I	PENDAHULUAN
-## Latar Belakang Masalah
-## Rumusan Masalah
-## Tujuan Penelitian
-## Batasan Masalah 
-## Manfaat Penelitian
+## 1.1 Latar Belakang Masalah
+## 1.2 Rumusan Masalah
+## 1.3 Tujuan Penelitian
+## 1.4 Batasan Masalah 
+## 1.5 Manfaat Penelitian
+
+---
+
 # BAB II	TINJAUAN PUSTAKA
-## State of the Art
-## Tinjauan Teoritis
+## 2.1 State of the Art
+## 2.2 Tinjauan Teoritis
+
+---
+
 # BAB III METODOLOGI PENELITIAN
-## Metode Penelitian
-## Data dan Pengumpulan Data
-## Rancangan Sistem (software/hardware)
-## Teknik Pengujian
-## Hasil yang diharapkan
+## 3.1 Metode Penelitian
+## 3.2 Data dan Pengumpulan Data
+## 3.3 Rancangan Sistem (software/hardware)
+## 3.4 Teknik Pengujian
+## 3.5 Hasil yang diharapkan
+
+---
+
 # JADWAL KEGIATAN DAN TEMPAT PENELITIAN
 # RENCANA ANGGARAN PENELITIAN
 # DAFTAR PUSTAKA
